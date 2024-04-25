@@ -291,9 +291,8 @@ a {
 /* Feature */
 
 .feature {
-    margin-top: 130px;
+    margin: 130px auto 0px;
     max-width: 1170px;
-    margin: 0px auto;
 }
 
 .feature .content {
